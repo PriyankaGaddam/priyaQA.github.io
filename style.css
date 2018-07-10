@@ -53,8 +53,8 @@ body {
 }
 
 .about-image{
-  margin: 100px;
-  width: 40%;
+  margin: 50px;
+  width: 20%;
   border-radius: 50%;
 }
 
@@ -70,6 +70,11 @@ body {
   border-bottom: 2px solid #2980b9;
   text-decoration: none;
   font-family: 'Bitter' ,serif;
+}
+
+.download-resume{
+  font-size: 34px;
+  font-weight: bold;
 }
 
 .social-media-icon-link {
